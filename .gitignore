@@ -16,4 +16,3 @@ src/.deps/
 src/Makefile
 src/iperf
 stamp-h1
-*.swp*
